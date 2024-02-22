@@ -11,7 +11,7 @@
 ## 2. eQTL analysis
 
    The eQTL analysis is performed using the GEMMA software, and we have already provided the installation package, which can be obtained from the tools folder.
-
+    
    gemma -g genotype.file -p phenotype.file -a SNP_Annotation.file -k knishp.file -c cov.file -lmm 1 -n 1 -o outpath
 ## 3. Meta analysis
 
